@@ -11,6 +11,7 @@
 		3AE9E2102C75F8220070316F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E20F2C75F8220070316F /* ContentView.swift */; };
 		3AE9E2122C75F8240070316F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AE9E2112C75F8240070316F /* Assets.xcassets */; };
 		3AE9E2152C75F8240070316F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AE9E2142C75F8240070316F /* Preview Assets.xcassets */; };
+		3AE9E21C2C75FB0E0070316F /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E21B2C75FB0E0070316F /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3AE9E20F2C75F8220070316F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3AE9E2112C75F8240070316F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AE9E2142C75F8240070316F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3AE9E21B2C75FB0E0070316F /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3AE9E20D2C75F8220070316F /* SwiftfulThinkingBootcampApp.swift */,
 				3AE9E20F2C75F8220070316F /* ContentView.swift */,
+				3AE9E21B2C75FB0E0070316F /* TextBootcamp.swift */,
 				3AE9E2112C75F8240070316F /* Assets.xcassets */,
 				3AE9E2132C75F8240070316F /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AE9E2102C75F8220070316F /* ContentView.swift in Sources */,
+				3AE9E21C2C75FB0E0070316F /* TextBootcamp.swift in Sources */,
 				3AE9E20E2C75F8220070316F /* SwiftfulThinkingBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
