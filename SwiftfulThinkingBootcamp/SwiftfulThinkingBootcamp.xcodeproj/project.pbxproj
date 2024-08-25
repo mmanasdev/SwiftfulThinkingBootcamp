@@ -24,6 +24,7 @@
 		3AE9E2302C7A83450070316F /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E22F2C7A83450070316F /* SpacerBootcamp.swift */; };
 		3AE9E2322C7A87650070316F /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E2312C7A87650070316F /* InitializerBootcamp.swift */; };
 		3AE9E2342C7BB5230070316F /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E2332C7BB5230070316F /* ForEachBootcamp.swift */; };
+		3AE9E2362C7BB8040070316F /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E2352C7BB8040070316F /* ScrollViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		3AE9E22F2C7A83450070316F /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		3AE9E2312C7A87650070316F /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		3AE9E2332C7BB5230070316F /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		3AE9E2352C7BB8040070316F /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,9 +93,10 @@
 				3AE9E22D2C78E7040070316F /* PaddingAndSpacerBootcamp.swift */,
 				3AE9E22F2C7A83450070316F /* SpacerBootcamp.swift */,
 				3AE9E2312C7A87650070316F /* InitializerBootcamp.swift */,
+				3AE9E2332C7BB5230070316F /* ForEachBootcamp.swift */,
+				3AE9E2352C7BB8040070316F /* ScrollViewBootcamp.swift */,
 				3AE9E2112C75F8240070316F /* Assets.xcassets */,
 				3AE9E2132C75F8240070316F /* Preview Content */,
-				3AE9E2332C7BB5230070316F /* ForEachBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			files = (
 				3AE9E2222C762BDD0070316F /* GradientsBootcamp.swift in Sources */,
 				3AE9E22A2C763AF60070316F /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				3AE9E2362C7BB8040070316F /* ScrollViewBootcamp.swift in Sources */,
 				3AE9E22E2C78E7040070316F /* PaddingAndSpacerBootcamp.swift in Sources */,
 				3AE9E2202C76031F0070316F /* ColorsBootcamp.swift in Sources */,
 				3AE9E2282C7637470070316F /* FrameBootcamp.swift in Sources */,
