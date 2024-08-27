@@ -26,6 +26,7 @@
 		3AE9E2342C7BB5230070316F /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E2332C7BB5230070316F /* ForEachBootcamp.swift */; };
 		3AE9E2362C7BB8040070316F /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E2352C7BB8040070316F /* ScrollViewBootcamp.swift */; };
 		3AE9E2382C7CA4C70070316F /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E2372C7CA4C70070316F /* GridBootcamp.swift */; };
+		3AE9E23A2C7E68F10070316F /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E2392C7E68F10070316F /* SafeAreaBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		3AE9E2332C7BB5230070316F /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		3AE9E2352C7BB8040070316F /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		3AE9E2372C7CA4C70070316F /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		3AE9E2392C7E68F10070316F /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +99,10 @@
 				3AE9E2312C7A87650070316F /* InitializerBootcamp.swift */,
 				3AE9E2332C7BB5230070316F /* ForEachBootcamp.swift */,
 				3AE9E2352C7BB8040070316F /* ScrollViewBootcamp.swift */,
+				3AE9E2372C7CA4C70070316F /* GridBootcamp.swift */,
+				3AE9E2392C7E68F10070316F /* SafeAreaBootcamp.swift */,
 				3AE9E2112C75F8240070316F /* Assets.xcassets */,
 				3AE9E2132C75F8240070316F /* Preview Content */,
-				3AE9E2372C7CA4C70070316F /* GridBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				3AE9E2282C7637470070316F /* FrameBootcamp.swift in Sources */,
 				3AE9E2322C7A87650070316F /* InitializerBootcamp.swift in Sources */,
 				3AE9E21E2C75FF930070316F /* ShapesBootcamp.swift in Sources */,
+				3AE9E23A2C7E68F10070316F /* SafeAreaBootcamp.swift in Sources */,
 				3AE9E2102C75F8220070316F /* ContentView.swift in Sources */,
 				3AE9E2342C7BB5230070316F /* ForEachBootcamp.swift in Sources */,
 				3AE9E21C2C75FB0E0070316F /* TextBootcamp.swift in Sources */,
