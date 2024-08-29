@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A113E002C8119AD0050B4F7 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A113DFF2C8119AD0050B4F7 /* ExtractedFunctionsBootcamp.swift */; };
 		3ABBE5C12C7FC29F005FE51A /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABBE5C02C7FC29F005FE51A /* ButtonsBootcamp.swift */; };
 		3ABBE5C32C7FC784005FE51A /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABBE5C22C7FC784005FE51A /* StateBootcamp.swift */; };
 		3AE9E20E2C75F8220070316F /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE9E20D2C75F8220070316F /* SwiftfulThinkingBootcampApp.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A113DFF2C8119AD0050B4F7 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		3ABBE5C02C7FC29F005FE51A /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		3ABBE5C22C7FC784005FE51A /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		3AE9E20A2C75F8220070316F /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,6 +109,7 @@
 				3AE9E2392C7E68F10070316F /* SafeAreaBootcamp.swift */,
 				3ABBE5C02C7FC29F005FE51A /* ButtonsBootcamp.swift */,
 				3ABBE5C22C7FC784005FE51A /* StateBootcamp.swift */,
+				3A113DFF2C8119AD0050B4F7 /* ExtractedFunctionsBootcamp.swift */,
 				3AE9E2112C75F8240070316F /* Assets.xcassets */,
 				3AE9E2132C75F8240070316F /* Preview Content */,
 			);
@@ -198,6 +201,7 @@
 				3AE9E22E2C78E7040070316F /* PaddingAndSpacerBootcamp.swift in Sources */,
 				3AE9E2202C76031F0070316F /* ColorsBootcamp.swift in Sources */,
 				3AE9E2282C7637470070316F /* FrameBootcamp.swift in Sources */,
+				3A113E002C8119AD0050B4F7 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				3AE9E2322C7A87650070316F /* InitializerBootcamp.swift in Sources */,
 				3AE9E21E2C75FF930070316F /* ShapesBootcamp.swift in Sources */,
 				3ABBE5C12C7FC29F005FE51A /* ButtonsBootcamp.swift in Sources */,
