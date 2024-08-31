@@ -24,7 +24,6 @@ struct ExtractSubviewsBootcamp: View {
         HStack {
             MyItem(title: "Apples", count: 1, color: Color.red)
             MyItem(title: "Oranges", count: 10, color: Color.orange)
-            
             MyItem(title: "Bananas", count: 34, color: Color.yellow)
         }
     }
