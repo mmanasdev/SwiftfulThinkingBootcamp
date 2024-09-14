@@ -20,8 +20,8 @@ struct NavigationViewBootcamp: View {
                 Text("Hello")
                 Text("Hello")
             }
+            .navigationTitle("All Inboxes")
         }
-        .navigationTitle("All Inboxes")
 //        .navigationBarTitleDisplayMode(.inline)
 //        .navigationBarHidden(true)
         .navigationBarItems(
@@ -51,7 +51,7 @@ struct MyOtherScreen: View {
                 .green
                 .edgesIgnoringSafeArea(.all)
                 .navigationTitle("GreenScreen")
-                .navigationBarHidden(true)
+//                .navigationBarHidden(true)
             
             VStack {
                 Button {
