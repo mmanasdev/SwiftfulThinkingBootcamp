@@ -154,9 +154,9 @@
 				3A5FBB7A2C98CFD400DF4FD0 /* AlertBootcamp.swift */,
 				3AE7043B2C9A1B96003CBC02 /* ActionsheetBootcamp.swift */,
 				3A74766D2C9B6C480066AF1A /* ContextMenuBootcamp.swift */,
+				3A1CEB682C9C7C0A0092696E /* TextfieldBootcamp.swift */,
 				3AE9E2112C75F8240070316F /* Assets.xcassets */,
 				3AE9E2132C75F8240070316F /* Preview Content */,
-				3A1CEB682C9C7C0A0092696E /* TextfieldBootcamp.swift */,
 			);
 			path = SwiftfulThinkingBootcamp;
 			sourceTree = "<group>";
