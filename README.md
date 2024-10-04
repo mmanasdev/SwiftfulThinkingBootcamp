@@ -37,13 +37,12 @@ To get started with this project, clone the repository and open it in Xcode. Eac
 
 ```sh
 git clone <repository-url>
+```
 
 Open the project in Xcode and run it on the simulator or your device.
 
 ## Contributing
+
 Feel free to contribute to this project by submitting pull requests. If you find any issues, please open an issue on GitHub.
 
-## License
-This project is licensed under the MIT License.
-
-Happy coding! 🎉 ```
+Happy coding! 🎉
